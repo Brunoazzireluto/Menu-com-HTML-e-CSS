@@ -1,0 +1,45 @@
+/* geral */
+* {
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+/* barra de navegação */
+nav{
+    background-color:#042620;
+    border-bottom: 4.5px solid #36BF66;
+    height: 45px;
+}
+
+#logo{
+color: #41BFB3;
+font-size: 20px;
+font-weight: bold;
+text-decoration: none;
+position: absolute;
+top: 15px;
+left: 10px;
+}
+
+#menu{
+    list-style: none;
+    float: right;
+    margin-top: 15px;
+}
+
+.item{
+    display: inline-block;
+    margin-left: 10px;
+    margin-left: 10px;
+
+}
+
+.item a{
+    color:#41BFB3 ;
+    text-decoration: none;
+}
+
+.item a:hover{
+    color: #fff;
+    transition: .6s;
+}
