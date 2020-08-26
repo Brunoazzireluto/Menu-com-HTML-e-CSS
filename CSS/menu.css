@@ -43,3 +43,9 @@ left: 10px;
     color: #fff;
     transition: .6s;
 }
+
+/*rodapé*/
+
+#rodape{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
